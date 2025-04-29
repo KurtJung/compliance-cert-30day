@@ -1,0 +1,10 @@
+name: cert-check-13day
+title: Check Certificate
+maintainer: KJung
+copyright: KJung
+copyright_email: kjung@chef.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile 30 Day
+version: 0.1.0
+supports:
+  platform: os
